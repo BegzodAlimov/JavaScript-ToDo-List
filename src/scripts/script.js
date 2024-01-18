@@ -13,7 +13,7 @@ window.addEventListener('DOMContentLoaded', () => {
 	} else {
 		tasks = [];
 	}
-
+	taskInput.focus()
 	tasks.forEach((item, index) => addTask(item, index));
 
 	addBtn.addEventListener('click', (event) => {
