@@ -1,0 +1,15 @@
+.container-sm {
+	max-width: 55%;
+}
+form {
+	margin-top: 100px;
+}
+button {
+	width: 100%;
+}
+.modal-footer {
+	border: none;
+}
+.modal-header {
+	border: none;
+}
